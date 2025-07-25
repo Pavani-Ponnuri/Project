@@ -25,21 +25,21 @@ export default function WhyChoose() {
   const testimonials = [
     {
       name: "Sarah Johnson",
-      text: `Working with [SoftwareCompany] has been an absolute pleasure. Their team of skilled professionals is not only knowledgeable in their field but also dedicated to providing top-notch service and support. They took the time to understand our unique needs and developed a tailored solution that exceeded our expectations. I cannot recommend [SoftwareCompany] highly enough for any business seeking innovative software solutions and exceptional customer care.”!`,
+      text: 'Working with [SoftwareCompany] has been an absolute pleasure. Their team of skilled professionals is not only knowledgeable in their field but also dedicated to providing top-notch service and support. They took the time to understand our unique needs and developed a tailored solution that exceeded our expectations. I cannot recommend [SoftwareCompany] highly enough for any business seeking innovative software solutions and exceptional customer care."!',
       title: "CEO, TechCorp",
       stars: 5,
       img: "/assets/client1.jpg",
     },
     {
       stars: 5,
-      text: `“If you’re in search of a reliable, innovative software company, look no further than [SoftwareCompany]. Their team of seasoned professionals consistently exceeds expectations, offering cutting-edge solutions and exceptional customer service. They took the time to understand our specific needs and provided a tailor-made solution that greatly improved our operations. We are thrilled with the results and highly recommend [SoftwareCompany] for any software development needs.”`,
+      text: '“If you’re in search of a reliable, innovative software company, look no further than [SoftwareCompany]. Their team of seasoned professionals consistently exceeds expectations, offering cutting-edge solutions and exceptional customer service. They took the time to understand our specific needs and provided a tailor-made solution that greatly improved our operations. We are thrilled with the results and highly recommend [SoftwareCompany] for any software development needs."',
       name: "Michael Chen",
       title: "Founder, StartupX",
       img: "/assets/client2.jpg",
     },
     {
       stars: 4,
-      text: `The staff was great. The receptionists were very helpful and answered all our questions. The room was clean and bright, and the room service was always on time. Will be coming back! Thank you so much.`,
+      text: 'The staff was great. The receptionists were very helpful and answered all our questions. The room was clean and bright, and the room service was always on time. Will be coming back! Thank you so much.',
       name: "Emily Rodriguez",
       title: "Director, Innovation Lab",
       img: "/assets/client3.jpg",
