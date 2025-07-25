@@ -3,7 +3,7 @@ export default function ContactPage() {
     <div className="min-h-screen flex flex-col items-center justify-center p-8 bg-gray-50">
       <h1 className="text-4xl font-bold text-blue-600 mb-6">Contact Us</h1>
       <p className="text-gray-700 text-center max-w-xl mb-10">
-        We'd love to hear from you. Please fill out the form below and we'll get back to you shortly.
+        We love to hear from you. Please fill out the form below and we will get back to you shortly.
       </p>
 
       <form className="w-full max-w-md bg-white p-6 rounded-lg shadow-md space-y-4">
