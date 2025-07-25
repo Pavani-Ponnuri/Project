@@ -1,5 +1,3 @@
-// src/app/contact/page.js
-
 export default function ContactPage() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center p-8 bg-gray-50">
