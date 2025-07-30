@@ -25,6 +25,9 @@ export default function Projects() {
         <h2 className="text-4xl font-bold text-center mb-6">Project Showcase</h2>
         <p className="text-center text-gray-600 mb-10">
           Browse through our beautifully crafted templates ready for customization.
+          Each project is designed to be fully responsive and easy to adapt to your needs.
+          Whether you need a portfolio, business site, or e-commerce UI, we have you covered.
+          
         </p>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
